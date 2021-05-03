@@ -6,7 +6,7 @@
 
 - Una descripción corta (2-3 frases) sobre el proyecto:
 
-- Link para entregable #1:
+- Link para entregable #1: 
 
 - Link para entregable #2:
 
