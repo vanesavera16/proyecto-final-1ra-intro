@@ -1,4 +1,4 @@
-- Miembros del equipo:
+- Miembros del equipo: 
 
 - Nombre del equipo:
 
