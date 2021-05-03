@@ -2,7 +2,7 @@
 
 - Nombre del equipo:
 
-- Nombre del proyecto:
+- Nombre del proyecto: 
 
 - Una descripción corta (2-3 frases) sobre el proyecto:
 
