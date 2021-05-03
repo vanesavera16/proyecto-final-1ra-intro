@@ -1,6 +1,6 @@
 - Miembros del equipo:
 
-- Nombre del equipo:
+- Nombre del equipo: 
 
 - Nombre del proyecto:
 
