@@ -1,6 +1,6 @@
 - Nombre de todos miembros en el grupo:
 
-- Nombre del equipo:
+- Número del equipo:
 
 - Nombre del proyecto:
 
