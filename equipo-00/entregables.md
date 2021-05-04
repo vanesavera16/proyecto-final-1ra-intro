@@ -1,8 +1,8 @@
-- Nombre de todos miembros en el grupo: Caro, Sarahi, Pushpita, Erica, Kasturi
+- Nombre de todos miembros en el grupo: 
 
-- Nombre del equipo: Patrones Hermosos Instructoras 1ra generación 
+- Número del equipo: 
 
-- Número del proyecto: 0
+- Nombre del proyecto: 
 
 - Una descripción corta (2-3 frases) sobre el proyecto:
 
